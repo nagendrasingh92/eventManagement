@@ -1,0 +1,13 @@
+.createEventWrap{
+    max-width: 900px;
+    margin: 100px auto;
+    .createEventHeadWrap{
+        display: flex;
+        justify-content: space-between;
+        margin: 20px;
+        
+    }
+    .DialogContent{
+        padding-top: 10px;
+    }
+}
